@@ -33,6 +33,9 @@ This Product Management System allows users to efficiently manage products by pr
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/product-management-system.git
+   git clone https://github.com/Aditya-Tanawade/ProductManagementBackEndApp-master.git
 
+
+
+Feel free to adjust the content as needed to better fit your project specifics!
 
